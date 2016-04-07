@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Title">
+        <item>Name 1</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+        <item>Name 7</item>
+        <item>Name 8</item>
+        <item>Name 9</item>
+        <item>Name 10</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Name 1</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+        <item>Name 7</item>
+        <item>Name 8</item>
+        <item>Name 9</item>
+        <item>Name 10</item>
+    </string-array>
+</resources>
